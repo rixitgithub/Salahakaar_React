@@ -1,0 +1,31 @@
+.main-head {
+  font-size: 4rem;
+  text-align: center;
+}
+.text-highlight {
+  text-align: center;
+  color: #9a1750;
+  font-size: 6rem;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  width: 50%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 75.4vh;
+  text-align: center;
+}
+.head {
+  display: flex;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
