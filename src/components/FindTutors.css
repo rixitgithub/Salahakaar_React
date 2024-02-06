@@ -1,0 +1,10 @@
+.whole {
+  height: 100vh;
+}
+.whole h1 {
+  font-size: 3rem;
+  margin-top: 3rem;
+  text-align: center;
+
+  font-family: "Fjalla One", sans-serif;
+}
